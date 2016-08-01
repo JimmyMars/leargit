@@ -1,2 +1,2 @@
-Learn how to use Git.
-Hello Git.
+Learn how to use Update Git.
+Hello Update Git.
