@@ -5,3 +5,4 @@ Git tracks changes of files.
 Check checkout.
 asdasdas
 dasds
+Push changes to remote Git.
